@@ -36,3 +36,4 @@ if seçim == "1" : hmmenu()
 if seçim == "1" : print("oyunlar henüz hazır değil:")
 
 
+...
