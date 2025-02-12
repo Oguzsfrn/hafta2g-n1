@@ -1,0 +1,2 @@
+# def topla(): # basit fonksiyon
+#   
